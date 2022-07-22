@@ -37,7 +37,7 @@ setup(
         "mercantile",
         "numpy>=1.10",
         "rasterio~=1.0",
-        "shapely~=1.7.0",
+        "shapely>=1.7.0",
         "supermercado",
         "tqdm~=4.0",
     ],
